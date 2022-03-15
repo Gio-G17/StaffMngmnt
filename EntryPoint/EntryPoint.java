@@ -48,8 +48,8 @@ public class EntryPoint{
         break;
         
                 }
-    }while(a.equals("y"));   
-
+    }
+        while(a.equals("y"));
 }
 
     
